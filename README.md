@@ -1,7 +1,7 @@
 [![Travis CI badge](https://api.travis-ci.com/rust-lang/rustc-dev-guide.svg?branch=master)](https://travis-ci.com/github/rust-lang/rustc-dev-guide)
 
 
-This is a collaborative effort to build a guide that explains how rustc
+This is a collaborative effort to build a guide that explains how dustc
 works. The aim of the guide is to help new contributors get oriented
 to rustc, as well as to help more experienced folks in figuring out
 some new part of the compiler that they haven't worked on before.
